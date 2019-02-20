@@ -2,7 +2,7 @@
 
 Plugin for displaying mouse position within Cypress' iframe where your app is tested.
 
-![cypress-mouse-position](screeshots/cypress-mouse-position-screenshot.png)
+![cypress-mouse-position](screenshots/cypress-mouse-position-screenshot.png)
 
 ## Installation
 
