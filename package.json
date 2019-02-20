@@ -1,8 +1,7 @@
 {
-  "name": "cypress-plugin-mouse-position",
+  "name": "cypress-mouse-position",
   "version": "1.0.0",
   "description": "Displays the mouse position within your app in Cypress",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

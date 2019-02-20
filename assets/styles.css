@@ -1,0 +1,13 @@
+#cypress-mouse-position-indicator {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #ddd;
+  padding: 8px 12px;
+  border-top: 1px solid #999;
+  border-left: 1px solid #999;
+  border-top-left-radius: 8px;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
+  color: #555;
+  font-size: 12px;
+}
